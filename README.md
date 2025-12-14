@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack developer from Srilanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishithamelan&label=Profile%20views&color=0e75b6&style=flat" alt="ishithamelan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=default" alt="ishithamelan" /></a> </p>
+<p align="left"> <a href="https://github.com/ishithamelan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=default" alt="ishithamelan" /></a> </p>
 
 - 🔭 I’m currently working on [ISH](https://incredible-empanada-e401da.netlify.app/)
 - 🌱 I’m currently learning **Next.js, React Hooks, Tailwind CSS**
