@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack developer from Srilanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishithamelan&label=Profile%20views&color=0e75b6&style=flat" alt="ishithamelan" /> </p>
 
-<p align="left"> <a href="https://github.com/ishithamelan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=default" alt="ishithamelan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=default" alt="ishithamelan" /></a> </p>
 
 - 🔭 I’m currently working on [ISH](https://incredible-empanada-e401da.netlify.app/)
 - 🌱 I’m currently learning **Next.js, React Hooks, Tailwind CSS**
@@ -88,18 +88,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishithamelan&layout=compact&theme=" alt=ishithamelan />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishithamelan&langs_count=8&theme=radical" alt=ishithamelan />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&locale=en&theme=" alt="ishithamelan" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&locale=en&theme=radical" alt="ishithamelan" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishithamelan&theme=" alt="ishithamelan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishithamelan&theme=radical" alt="ishithamelan" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ishithamelan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishithamelan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishithamelan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishithamelan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishithamelan&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishithamelan&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishithamelan&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishithamelan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishithamelan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishithamelan&theme=radical" height="180em" />
 </div>
