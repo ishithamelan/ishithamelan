@@ -1,6 +1,17 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Ishitha%20Melan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Undergraduate&descAlignY=55&descAlign=50" alt="Header Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+  <h1 align="center">Hi, I'm Ishitha Melan! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=338BF7&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Undergraduate+%F0%9F%8E%93;Building+Neon+Web+Experiences+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00ff00?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </p>
 
 </div>
 ---
