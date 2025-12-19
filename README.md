@@ -1,18 +1,59 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8A2387,E94057,F27121&height=120&section=header&text=ISHITHA%20MELAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%" />
 
-  <h1 align="center">Hi, I'm Ishitha Melan! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=338BF7&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Undergraduate+%F0%9F%8E%93;Building+Neon+Web+Experiences+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+<br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00ff00?style=for-the-badge&logo=vercel&logoColor=black" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <br>
+      <img src="https://media.giphy.com/media/26tn33aiU1jHHEUkE/giphy.gif" width="100%" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-2E2E2E?style=for-the-badge&logoColor=white" />
+    </td>
 
+    <td width="50%" align="left" valign="top">
+      <br>
+      
+      <h3>&nbsp;>_ System Status: <span style="color: #F27121;">ONLINE</span></h3>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=1000&color=E94057&width=435&lines=Initiating+Full+Stack+Protocols...;Loading+HTML5%2C+CSS3%2C+JS...;Targeting+Serverless+Architecture...;Creative+Developer+Mode%3A+ENABLED" alt="Typing SVG" />
+      </a>
+
+      <br><br>
+
+      ```javascript
+      const ishitha = {
+          role: "CS Undergraduate",
+          power_level: "Rising 🚀",
+          fuel: ["Coffee", "Code", "Music"],
+          mission: "Build. Deploy. Innovate."
+      };
+      ```
+
+      <br>
+      
+      <p align="left">
+        <a href="https://github.com/ishithamelan">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:your@email.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishithamelan&bg_color=0D1117&color=E94057&line=8A2387&point=F27121&hide_border=true&area=true" width="100%" />
 </div>
 ---
 
