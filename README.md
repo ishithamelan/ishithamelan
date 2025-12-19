@@ -1,82 +1,75 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=80&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=ISHITHA+MELAN;FULL+STACK+PROTOCOL;SYSTEM+OVERRIDE" alt="Glitch Header" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 15px;" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HP-100%25-00FF99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MP-MAXED-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEVEL-UNDERGRAD-FF0055?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-RISING-F7DF1E?style=for-the-badge" />
+<div align="center" style="margin-top: -50px; position: relative; z-index: 10;">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=ISHITHA%20MELAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Architecting%20Digital%20Realities%20%7C%20Full%20Stack%20Engineer&descAlignY=85&descAlign=50" width="80%" />
 </div>
 
 ---
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%" valign="top">
-      <h3 align="center">💻 TERMINAL</h3>
+    <td width="50%" valign="top">
+      <h3>📡 Live Satellite Uplink</h3>
       
-      ```bash
-      > run bio.exe
-      
-      [INFO] Loading User...
-      Name: Ishitha Melan
-      Class: Technomancer
-      Loc: Sri Lanka 🇱🇰
-      
-      > check_skills
-      [SUCCESS] Stack Loaded:
-      [+] JavaScript
-      [+] React.js
-      [+] Google Cloud
-      ```
-      <br>
-      <div align="center">
-        <img src="https://media.giphy.com/media/LHTJ2z6tB681y/giphy.gif" width="90%" style="border-radius: 5px;" />
+      <div align="center" style="background: #0D1117; border-radius: 10px; padding: 10px;">
+        <img src="https://media.giphy.com/media/XsjoT2H3U7eTZYYVnK/giphy.gif" width="40" align="left" />
+        <b style="color: #20BDFF;">&nbsp;Vibing while Coding:</b><br>
+        &nbsp;Lo-Fi Beats to Deploy To 🎧
+        <img src="https://media.giphy.com/media/T87xe7B2d50WzrhRVu/giphy.gif" width="100%" height="50" style="opacity: 0.7;" />
       </div>
+      <br>
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=transparent&hide_border=true&title_color=20BDFF&icon_color=A5FECB&text_color=ffffff" width="100%" />
     </td>
 
-    <td width="40%" align="center">
-      <br>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+    <td width="50%" valign="top" align="center">
+      <h3>🏆 The Trophy Cabinet (3D)</h3>
+      
+      <img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=gitblock&no-frame=true&column=4&margin-w=10&margin-h=10" width="100%" />
       
       <br><br>
       
-      <a href="https://github.com/ishithamelan">
-        <img src="https://img.shields.io/badge/GITHUB-ACCESS-black?style=flat-square&logo=github&logoColor=white&color=181717" />
-      </a>
-      <br>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" />
-      </a>
-    </td>
-
-    <td width="30%" valign="top">
-      <h3 align="center">📊 DATA STREAM</h3>
-      
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=1" />
-      </div>
-      
-      <br>
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="100%" />
+      <h3>🛠️ Holographic Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,vscode,figma,googlecloud,firebase,python,java&perline=5&theme=dark" />
     </td>
   </tr>
 </table>
 
 ---
 
+### 📂 Declassified Project Files
+
+<details>
+<summary><b>💠 Project Alpha: The Serverless Portfolio Engine</b></summary>
+<br>
+A pioneering approach to zero-cost hosting.
+
+* **Objective:** Eliminate backend server dependency.
+* **Mechanism:** Google Apps Script intercepting POST requests, utilizing Google Sheets as a real-time relational database.
+* **UI/UX:** Custom Neon CSS design system with JS-driven asynchronous animations.
+* **Status:** <img src="https://img.shields.io/badge/Deployed-SUCCESS-00ff00?style=flat-square" />
+</details>
+
+<details>
+<summary><b>💠 Project Beta: (Add Your Next Project Here)</b></summary>
+<br>
+*Description of your amazing second project goes here.*
+</details>
+
+<br>
+
+---
+
 <div align="center">
+  <h3>🌆 Building My Contribution City</h3>
   
-  <h3>🚀 DEPLOYING TO THE METAVERSE...</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishithamelan&bg_color=0D1117&color=5433FF&line=20BDFF&point=A5FECB&hide_border=true&area=true" width="100%" />
   
-  <img src="https://media.giphy.com/media/iCXzbBErZ8FzW/giphy.gif" width="100%" />
-
   <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=ishithamelan&style=digital-pixel&color=00ff99&label=VISITORS" />
-
+  
+  <img src="https://komarev.com/ghpvc/?username=ishithamelan&style=flat-square&color=blueviolet&label=NETRUNNERS%20VISITED" />
 </div>
 
 > [!CAUTION]
