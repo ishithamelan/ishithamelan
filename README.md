@@ -5,7 +5,7 @@
   <h1>Hi, I'm Ishitha Melan! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338BF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Undergraduate;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338BF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer; Computer+Science+Undergraduate;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
 </div>
