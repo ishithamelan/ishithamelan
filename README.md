@@ -1,75 +1,49 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 15px;" />
-</div>
+<div align="center" style="position: relative;">
+  
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
 
-<div align="center" style="margin-top: -50px; position: relative; z-index: 10;">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=ISHITHA%20MELAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Architecting%20Digital%20Realities%20%7C%20Full%20Stack%20Engineer&descAlignY=85&descAlign=50" width="80%" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://api.dicebear.com/9.x/notionists/svg?seed=Ishitha&backgroundColor=transparent&flip=true" height="180" alt="Generative Avatar" />
+  </div>
+
 </div>
 
 ---
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📡 Live Satellite Uplink</h3>
+    <td width="60%">
+      <h3>👤 Identity Protocol: <span style="color: #A5FECB;">VERIFIED</span></h3>
       
-      <div align="center" style="background: #0D1117; border-radius: 10px; padding: 10px;">
-        <img src="https://media.giphy.com/media/XsjoT2H3U7eTZYYVnK/giphy.gif" width="40" align="left" />
-        <b style="color: #20BDFF;">&nbsp;Vibing while Coding:</b><br>
-        &nbsp;Lo-Fi Beats to Deploy To 🎧
-        <img src="https://media.giphy.com/media/T87xe7B2d50WzrhRVu/giphy.gif" width="100%" height="50" style="opacity: 0.7;" />
-      </div>
-      <br>
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=transparent&hide_border=true&title_color=20BDFF&icon_color=A5FECB&text_color=ffffff" width="100%" />
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=20BDFF&width=435&lines=//+Initialize+User+Ishitha;const+passion+%3D+%22Full+Stack%22%3B;while(alive)+%7B+code()%3B+%7D" alt="Code Typing" />
+      </a>
+
+      <br><br>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=gotham&hide_border=true" width="100%" />
     </td>
 
-    <td width="50%" valign="top" align="center">
-      <h3>🏆 The Trophy Cabinet (3D)</h3>
-      
-      <img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=gitblock&no-frame=true&column=4&margin-w=10&margin-h=10" width="100%" />
-      
-      <br><br>
-      
-      <h3>🛠️ Holographic Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,vscode,figma,googlecloud,firebase,python,java&perline=5&theme=dark" />
+    <td width="40%" align="center">
+      <h3>🐍 Contribution Snake</h3>
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Declassified Project Files
-
-<details>
-<summary><b>💠 Project Alpha: The Serverless Portfolio Engine</b></summary>
-<br>
-A pioneering approach to zero-cost hosting.
-
-* **Objective:** Eliminate backend server dependency.
-* **Mechanism:** Google Apps Script intercepting POST requests, utilizing Google Sheets as a real-time relational database.
-* **UI/UX:** Custom Neon CSS design system with JS-driven asynchronous animations.
-* **Status:** <img src="https://img.shields.io/badge/Deployed-SUCCESS-00ff00?style=flat-square" />
-</details>
-
-<details>
-<summary><b>💠 Project Beta: (Add Your Next Project Here)</b></summary>
-<br>
-*Description of your amazing second project goes here.*
-</details>
-
-<br>
-
----
-
 <div align="center">
-  <h3>🌆 Building My Contribution City</h3>
+  <h3>🔮 Holographic Arsenal</h3>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishithamelan&bg_color=0D1117&color=5433FF&line=20BDFF&point=A5FECB&hide_border=true&area=true" width="100%" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,graphql&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,docker&theme=dark" />
+  </p>
   
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=ishithamelan&style=flat-square&color=blueviolet&label=NETRUNNERS%20VISITED" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a&height=100&section=footer" width="100%" />
+
 </div>
 
 > [!CAUTION]
