@@ -1,58 +1,49 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LOFTLhkYjF01q/giphy.gif" width="150" style="border-radius: 50%; border: 4px solid #00ff99; box-shadow: 0 0 20px #00ff99;" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PLAYER:+ISHITHA+MELAN;LEVEL:+UNDERGRADUATE;MISSION:+DEPLOY+TO+PROD" alt="Retro Font" />
+  <img src="https://media.giphy.com/media/Yy26NRbpB9lCGalbLr/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #00C2FF;" />
 </div>
 
----
-
-<h3 align="center">🕹️ CHALLENGE ME: Make a Move!</h3>
-<p align="center">
-  <a href="https://github.com/ishithamelan">
-    <img src="https://raw.githubusercontent.com/jbmaynard/chess-readme/master/board.svg" width="60%" />
-  </a>
-  <br>
-  <sub>*Current Game State: White to Move*</sub>
-</p>
-
----
-
-<h3 align="center">🌆 MY CODE METROPOLIS</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=juicyfresh&no-frame=true&column=7" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg" width="100%" />
+<div align="center" style="margin-top: -180px; position: relative; z-index: 10;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;WELCOME+BACK,+ISHITHA;TARGET:+FULL+STACK+MASTERY" alt="HUD Typing" />
 </div>
 
----
-
-<h3 align="center">🚗 CRUISING THROUGH CODE</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishithamelan&bg_color=0D1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true" width="100%" />
-</div>
-
----
+<br><br><br><br>
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="center">
-      <h3>🧬 BIOMETRIC SCAN</h3>
+    <td width="33%" align="center" valign="top">
+      <h4 style="color: #00C2FF;">CORE PROCESSING</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishithamelan&theme=2077" width="100%" />
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishithamelan&theme=2077" width="100%" />
     </td>
-    <td width="50%" align="center">
-       <h3>🎧 NEURAL LINK (Music)</h3>
-       <img src="https://media.giphy.com/media/143v0ZJOxhksZjG/giphy.gif" width="150" />
-       <br>
-       <img src="https://novatorem.vercel.app/api/spotify" />
+
+    <td width="33%" align="center">
+       <br><br>
+       <img src="https://media.giphy.com/media/VjvdK31TNbP1e/giphy.gif" width="120" style="border-radius: 50%; box-shadow: 0 0 50px #00C2FF;" />
+       
+       <br><br><br>
+       
+       <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+       
+       <br><br>
+       
+       <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,git,docker&theme=dark" />
+    </td>
+
+    <td width="33%" align="center" valign="top">
+      <h4 style="color: #00C2FF;">MEMORY ALLOCATION</h4>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishithamelan&theme=2077" width="100%" />
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishithamelan&theme=2077" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
+<h3 align="center" style="color: #00C2FF;">🛡️ SECURITY INCIDENT LOG</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ishithamelan/ishithamelan/output/github-snake-darkBlue.svg" width="100%" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,00C2FF,000000&height=50&section=footer&animation=fadeIn" width="100%" />
