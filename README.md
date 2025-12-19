@@ -1,50 +1,73 @@
 <div align="center" style="position: relative;">
-  
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5S9n/giphy.gif" width="100%" style="border-radius: 20px; opacity: 0.9;" />
 
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://api.dicebear.com/9.x/notionists/svg?seed=Ishitha&backgroundColor=transparent&flip=true" height="180" alt="Generative Avatar" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=55&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=ISHITHA+MELAN;ARCHITECTING+THE+FUTURE" alt="Typing SVG" />
+    <br>
+    <img src="https://img.shields.io/badge/CORE-FULL%20STACK-00C2FF?style=for-the-badge&logo=react&logoColor=white" style="opacity: 0.9;" />
+    <img src="https://img.shields.io/badge/LEVEL-ENGINEER-7B2CBF?style=for-the-badge&logo=c&logoColor=white" style="opacity: 0.9;" />
   </div>
-
 </div>
 
 ---
 
+<h3>🔍 // DECLASSIFIED: DEVELOPER PROFILE</h3>
+
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
-      <h3>👤 Identity Protocol: <span style="color: #A5FECB;">VERIFIED</span></h3>
-      
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=20BDFF&width=435&lines=//+Initialize+User+Ishitha;const+passion+%3D+%22Full+Stack%22%3B;while(alive)+%7B+code()%3B+%7D" alt="Code Typing" />
-      </a>
-
-      <br><br>
-
-      <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=gotham&hide_border=true" width="100%" />
+    <td width="50%" valign="top">
+      <br>
+      ```json
+      {
+        "identity": {
+          "name": "Ishitha Melan",
+          "archetype": "Problem Solver 🧩",
+          "location": "Sri Lanka 🇱🇰"
+        },
+        "philosophy": [
+          "Clean Code over Clever Code",
+          "User Experience is Paramount",
+          "Always be shipping 🚢"
+        ],
+        "current_state": "Building Scalable Serverless Systems"
+      }
+      ```
     </td>
 
-    <td width="40%" align="center">
-      <h3>🐍 Contribution Snake</h3>
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <td width="50%" valign="top" style="padding-left: 20px;">
+       <br>
+       <a href="https://git.io/typing-svg">
+         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C2FF&background=00000000&vCenter=true&multiline=true&width=400&height=80&lines=beyond_the_code_();%E2%96%B6+Audiophile+%26+Music+Producer+%F0%9F%8E%A7;%E2%96%B6+Open+Source+Contributor+%F0%9F%8C%90;%E2%96%B6+Tech+Article+Writer+%E2%9C%8D%EF%B8%8F" alt="Personality Typer" />
+       </a>
+
+       <br><br>
+
+       <p align="left">
+         <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+         <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+       </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-  <h3>🔮 Holographic Arsenal</h3>
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,graphql&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,docker&theme=dark" />
-  </p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a&height=100&section=footer" width="100%" />
-
+<h3>🛠️ // THE QUANTUM ARSENAL</h3>
+<div align="center" style="background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #30363d;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,graphql,python,java,c,git,docker,kubernetes,googlecloud,vercel&perline=7&theme=dark" />
 </div>
+
+<br>
+
+<h3>📊 // LIVE SYSTEM METRICS</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=7B2CBF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishithamelan&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=ffffff" height="170" />
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00C2FF,7B2CBF&height=100&section=footer" width="100%" />
 
 > [!CAUTION]
 > **Status:** currently looking for Internship opportunities!
