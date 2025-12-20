@@ -171,28 +171,7 @@
 
 </details>
 
-<!-- ====== DIVIDER ====== -->
-<div align="center">
-  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LOFTLhkYjF01q/giphy.gif" width="150" style="border-radius: 50%; border: 4px solid #00ff99; box-shadow: 0 0 20px #00ff99;" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PLAYER:+ISHITHA+MELAN;LEVEL:+UNDERGRADUATE;MISSION:+DEPLOY+TO+PROD" alt="Retro Font" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LOFTLhkYjF01q/giphy.gif" width="150" style="border-radius: 50%; border: 4px solid #00ff99; box-shadow: 0 0 20px #00ff99;" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=PLAYER:+ISHITHA+MELAN;LEVEL:+UNDERGRADUATE;MISSION:+DEPLOY+TO+PROD" alt="Retro Font" />
-</div>
 
 ---
 
