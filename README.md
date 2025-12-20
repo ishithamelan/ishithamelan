@@ -196,14 +196,6 @@
 
 ---
 
-<h3 align="center">🕹️ CHALLENGE ME: Make a Move!</h3>
-<p align="center">
-  <a href="https://github.com/ishithamelan">
-    <img src="https://raw.githubusercontent.com/jbmaynard/chess-readme/master/board.svg" width="60%" />
-  </a>
-  <br>
-  <sub>*Current Game State: White to Move*</sub>
-</p>
 
 ---
 
