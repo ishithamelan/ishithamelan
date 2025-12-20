@@ -5,7 +5,7 @@
 
 <!-- ====== MATRIX HEADER ====== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=285&color=0:000000,45:001a0d,100:00ff88&text=ISHITHA%20MELAN&fontSize=76&fontColor=00FF88&animation=fadeIn&fontAlignY=40&desc=HACKER%20MATRIX%20%7C%20TERMINAL%20GLITCH%20PROFILE%20%7C%20BUILD%20MODE&descAlignY=72&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=285&color=0:000000,45:001a0d,100:00ff88&text=ISHITHA%20MELAN&fontSize=76&fontColor=00FF88&animation=fadeIn&fontAlignY=40&desc=GLITCH%20PROFILE%20%7C%20BUILD%20MODE&descAlignY=72&descSize=20" />
 </div>
 
 <!-- ====== TERMINAL TYPE ====== -->
