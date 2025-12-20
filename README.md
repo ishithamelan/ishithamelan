@@ -171,18 +171,12 @@
 
 </details>
 
-
-
----
-
-
 ---
 
 <h3 align="center">🌆 MY CODE METROPOLIS</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishithamelan&theme=juicyfresh&no-frame=true&column=7" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg" width="100%" />
 </div>
 
 ---
