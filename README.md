@@ -232,15 +232,19 @@
 
 <br>
 
+<!-- ====== Languages Used Across My Repositories ====== -->
+## 🧠 Languages I Use (Across Repositories)
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishithamelan&bg_color=000000&color=00FF88&line=00C853&point=00FF88&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishithamelan&layout=compact&hide_border=true&theme=chartreuse-dark&langs_count=10" width="55%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=github" width="44%" alt="GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishithamelan&layout=compact&hide_border=true&theme=chartreuse-dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ishithamelan&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=github" width="49%" />
+  <!-- “At-a-glance” icon strip (adjust if you want) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,python,java,c,php&perline=12" />
 </div>
 
 <!-- ====== DIVIDER ====== -->
